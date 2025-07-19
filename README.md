@@ -1,93 +1,116 @@
-# 🌍 Jharkhand District GEO MIS Data
+<h1 align="center">🌍 Jharkhand District GEO MIS Data</h1>
 
-![Dashboard Preview](https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/blob/main/dashboard.png)
+<p align="center">
+  <img src="https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/blob/main/dashboard.png" width="80%" alt="Dashboard Preview">
+</p>
 
-[![Power BI Project](https://img.shields.io/badge/Power%20BI-Data%20Dashboard-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiNjI1NDFjZWEtZmI2Zi00NTg1LTgwNDQtYzNkMTI1YzY3YWQyIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=3959586a7e8608d515e6)
-[![GIS Enabled](https://img.shields.io/badge/GIS-Enabled-brightgreen?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
-[![Census 2011](https://img.shields.io/badge/Data-Census%202011-blue?style=for-the-badge)](https://censusindia.gov.in/)
-[![Built with 💛 by Biswajeet](https://img.shields.io/badge/Built%20with-%F0%9F%92%9B%20by%20Biswajeet-orange?style=for-the-badge)](https://github.com/datawithbiswajeet)
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjI1NDFjZWEtZmI2Zi00NTg1LTgwNDQtYzNkMTI1YzY3YWQyIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=3959586a7e8608d515e6">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi" alt="Power BI">
+  </a>
+  <a href="https://qgis.org/">
+    <img src="https://img.shields.io/badge/GIS-Enabled-brightgreen?style=for-the-badge&logo=qgis" alt="GIS Enabled">
+  </a>
+  <a href="https://censusindia.gov.in/">
+    <img src="https://img.shields.io/badge/Data-Census%202011-blue?style=for-the-badge" alt="Census Data">
+  </a>
+  <a href="https://www.linkedin.com/in/datawithbiswajeet/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
----
+<hr>
 
-## 📌 Project Highlights
+## 📌 <u>Project Highlights</u>
 
-This project visualizes **district-level demographic and geographic metrics** from the Indian state of **Jharkhand**, including:
+Visualizing **district-wise data of Jharkhand** using interactive GIS mapping. Metrics include:
+- 👨‍👩‍👧 **Population** (2011 Census + Projected 2025)
+- 📏 **Geographical Area**
+- 🎓 **Literacy Rate**
+- ⚧️ **Sex Ratio**
 
-- 👨‍👩‍👧 **Population (2011 Census & Projected 2025)**
-- 📏 **Area (in sq. km)**
-- 🎓 **Literacy Rate (%)**
-- ⚧️ **Sex Ratio (females per 1000 males)**
-
-All data is presented through **interactive visuals** backed by **GIS mapping**, taking decision-making and insights to the next level.
-
----
-
-## 🚀 Live Dashboard Link  
-Click below to experience the interactive dashboard 👇  
-👉 [**Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNjI1NDFjZWEtZmI2Zi00NTg1LTgwNDQtYzNkMTI1YzY3YWQyIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=3959586a7e8608d515e6)
-
----
-
-## 🎥 Walkthrough Video
-
-Need a quick overview? Watch this short demo of the dashboard in action:
-
-[▶️ Click to Watch](https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/blob/main/Jharkhand%20District%20Geo%20MIS%20Data.mp4)
+All layered on a **dynamic and colorful dashboard** powered by **Power BI** and **GIS maps**.
 
 ---
 
-## 🧩 Map Shapefile
+## 🚀 <u>Live Dashboard</u>
 
-Want to explore or customize the map in your own GIS software?
-
-📁 Download the original **Jharkhand District Shapefile** here:  
-[📍 jharkhand_districts.shp](https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/blob/main/jharkhand_districts.shp)
+📊 Experience the interactive dashboard here 👉  
+🔗 [**Click to View Live**](https://app.powerbi.com/view?r=eyJrIjoiNjI1NDFjZWEtZmI2Zi00NTg1LTgwNDQtYzNkMTI1YzY3YWQyIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=3959586a7e8608d515e6)
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🎥 <u>Demo Walkthrough</u>
 
-| Tool        | Purpose                                   |
-|-------------|-------------------------------------------|
-| **QGIS**    | Geo-boundary processing, district mapping |
-| **Mapshaper** | Map simplification and TopoJSON shaping |
-| **Excel**   | Data transformation & calculations        |
-| **Power BI**| Dashboard creation, DAX modeling & visuals|
-
----
-
-## 📚 Data Sources
-
-- **Census 2011 (India)** – For official district-level demographic data  
-- **Projected Population 2025** – Calculated using average population growth rate
-
-> 💡 *Note: All figures are either directly from Census 2011 or derived via projections for 2025.*
+<p align="center">
+  <video src="https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/blob/main/Jharkhand%20District%20Geo%20MIS%20Data.mp4" controls width="70%">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ---
 
-## 🔮 What’s Next?
+## 🧩 <u>Map Shapefile</u>
 
-I’m working on scaling this dashboard to a **village-level resolution** — enabling:
-- Drill-down insights from **district → block → village**
-- Integration of **health, infrastructure, and education data**
-- Deeper impact analytics for planners, NGOs, and researchers
+Download the GIS shapefile used in this project for further customization or geospatial analysis:
 
-Stay tuned for the **next-gen upgrade** of this MIS tool! 🚀
+📍 [`jharkhand_districts.shp`](https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/blob/main/jharkhand_districts.shp)
 
 ---
 
-## 💬 Feedback & Contributions
+## 🛠️ <u>Tech Stack</u>
 
-Have suggestions or want to collaborate?  
-Feel free to [raise an issue](https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/issues) or fork the repo and contribute!
+<div align="center">
+
+<table>
+<tr>
+  <td align="center"><strong>QGIS</strong><br>Map Layer Creation</td>
+  <td align="center"><strong>Mapshaper</strong><br>Map Simplification</td>
+  <td align="center"><strong>Excel</strong><br>Data Cleaning & Growth Projection</td>
+  <td align="center"><strong>Power BI</strong><br>Dashboard & DAX Modeling</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 👨‍💻 Created By
+## 📚 <u>Data Sources</u>
 
-Made with ❤️ by [**@datawithbiswajeet**](https://github.com/datawithbiswajeet)  
-📫 Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/datawithbiswajeet/)  
+- 📘 **Census 2011 India** – Official population & demographic data  
+- 🔢 **Expected Population 2025** – Projected using growth rate logic  
 
-A visual thinker. A data dreamer. A problem solver. ✨
+> 📌 *Note: All insights are either from Census 2011 or calculated using data modeling techniques.*
+
+---
+
+## 🔮 <u>What’s Next?</u>
+
+✨ **Planned upgrade: Village-level data insights!**
+
+Future releases will include:
+- District → Block → Village-level drilldown
+- Education, health, infrastructure layers
+- Targeted visuals for decision-makers and local governance
+
+---
+
+## 💬 <u>Feedback & Collaboration</u>
+
+If you found this project useful or want to collaborate:
+
+- ⭐ Star this repo  
+- 🐛 Raise an issue  
+- 🍴 Fork and build your own version  
+
+---
+
+## 👨‍💻 <u>Created By</u>
+
+<p align="center">
+  <strong>Biswajeet | Data Enthusiast & Visual Thinker</strong><br>
+  🔗 <a href="https://www.linkedin.com/in/datawithbiswajeet/">Connect on LinkedIn</a><br>
+  💻 <a href="https://github.com/datawithbiswajeet">View my GitHub Profile</a>
+</p>
 
 ---
