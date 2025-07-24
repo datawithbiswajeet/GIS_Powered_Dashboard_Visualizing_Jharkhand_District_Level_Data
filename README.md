@@ -1,11 +1,11 @@
 <h1 align="center">🌍 Jharkhand District GEO MIS Data</h1>
 
 <p align="center">
-  <img src="https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/blob/main/dashboard.png" width="80%" alt="Dashboard Preview">
+  <img src="https://github.com/datawithbiswajeet/GIS_Powered_Dashboard_Visualizing_Jharkhand_District_Level_Data/blob/main/dashboard.png" width="80%" alt="Dashboard Preview">
 </p>
 
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjI1NDFjZWEtZmI2Zi00NTg1LTgwNDQtYzNkMTI1YzY3YWQyIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=3959586a7e8608d515e6">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYjBjZTMyMWYtMGNlYy00MTZhLWEyM2EtNDNiMmFkNTAwMTQzIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=3959586a7e8608d515e6">
     <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi" alt="Power BI">
   </a>
   <a href="https://qgis.org/">
@@ -36,14 +36,14 @@ All layered on a **dynamic and colorful dashboard** powered by **Power BI** and 
 ## 🚀 <u>Live Dashboard</u>
 
 📊 Experience the interactive dashboard here 👉  
-🔗 [**Click to View Live**](https://app.powerbi.com/view?r=eyJrIjoiNjI1NDFjZWEtZmI2Zi00NTg1LTgwNDQtYzNkMTI1YzY3YWQyIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=3959586a7e8608d515e6)
+🔗 [**Click to View Live**](https://app.powerbi.com/view?r=eyJrIjoiYjBjZTMyMWYtMGNlYy00MTZhLWEyM2EtNDNiMmFkNTAwMTQzIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=3959586a7e8608d515e6)
 
 ---
 
 ## 🎥 <u>Demo Walkthrough</u>
 
 <p align="center">
-  <video src="https://github.com/datawithbiswajeet/Jharkhand_District_GIS_MIS-Dashboard/blob/main/Jharkhand%20District%20Geo%20MIS%20Data.mp4" controls width="70%">
+  <video src="https://github.com/datawithbiswajeet/GIS_Powered_Dashboard_Visualizing_Jharkhand_District_Level_Data/blob/main/jharkhand%20census%20data%20final.mp4" controls width="70%">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -112,5 +112,3 @@ If you found this project useful or want to collaborate:
   🔗 <a href="https://www.linkedin.com/in/datawithbiswajeet/">Connect on LinkedIn</a><br>
   💻 <a href="https://github.com/datawithbiswajeet">View my GitHub Profile</a>
 </p>
-
----
